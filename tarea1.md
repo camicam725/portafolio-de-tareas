@@ -1,12 +1,6 @@
 # Tarea 1
 Portafolio de tareas – Taller de Lenguajes de Programación - tuxtter
 --------------Camila Cameras Ramirez-------------------
-## Creación de repositorio y cuenta GitHub
-
-## Objetivo
-El objetivo de esta tarea fue crear una cuenta en GitHub, generar un repositorio para el portafolio de tareas, agregar al docente como colaborador y registrarse en el programa GitHub for Education.
-
-## Desarrollo
 
 # 1. Creación de cuenta en GitHub
 Se creó una cuenta en GitHub
